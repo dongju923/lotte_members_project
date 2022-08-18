@@ -1,0 +1,3 @@
+dataset/
+predict_model/*.pth
+how_to_make/*.pickle
