@@ -13,9 +13,9 @@
 
 ## predict_model폴더
 - 예측 모델 개발 코드 및 세이브 파일(ipynb형식, pth형식)
-> predict_model/models
+> ### predict_model/models
 - informer 기본 모델코드
->> predict_model/utils
+>> ### predict_model/utils
 - informer 모델에 사용된 utils함수 코드
 
 ## app.py파일
