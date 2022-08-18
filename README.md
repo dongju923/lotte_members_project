@@ -1,4 +1,5 @@
-data폴더
+## data폴더
+
 - 데이터 분석시 필요한 데이터(pickle형식)
 
 dataset폴더
